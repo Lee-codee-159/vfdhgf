@@ -1,0 +1,17 @@
+.button{
+    font-size: 32px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 7px 35px 20px royalblue;
+}
+.div1{
+    float: none;
+    background-color: brown;
+    padding: 12px;
+    border-radius: 17px;
+    color: aqua;
+    box-shadow: 7px 35px 20px royalblue;
+}
+.div2{
+    font-size: 20px;
+}
